@@ -4,7 +4,7 @@ sudo apt-get update
 
 
 # Step 1: Install dependencies
-sudo apt-get install \
+sudo apt-get install -y \
     ca-certificates \
     curl \
     gnupg \
